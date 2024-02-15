@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently working on tools for finite element analysis and the implementation of constitutive modeling.
+
 <!--
 **philippgampe/philippgampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
